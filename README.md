@@ -1,5 +1,9 @@
 # Open-cv
 
+# URL
+
+https://www.youtube.com/watch?v=WQeoO7MI0Bs
+
 # test1.py
 python test1.pyにて
 Resourceから画像をインポートして表示する。
